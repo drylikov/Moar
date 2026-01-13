@@ -1,4 +1,3 @@
-
 # moar
 
 `moar` is an abstraction on top of $PAGER for nodejs.  That is, it helps you
