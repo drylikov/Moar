@@ -26,4 +26,3 @@ require('request')('http://nodejs.org').pipe(moar).on('end', moar.end);
 `moar` implements some of the writable stream interface, so you can `pipe`
 data to it or `write` to it.
 
-
