@@ -1,4 +1,4 @@
-# moar
+# Moar
 
 `moar` is an abstraction on top of $PAGER for nodejs.  That is, it helps you
 page data in the terminal from node.
